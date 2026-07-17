@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://traphouse998.github.io/yeni-casino-siteleri/sitemap.xml
